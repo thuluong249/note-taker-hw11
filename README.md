@@ -1,8 +1,15 @@
 # Homework11: Note-Taker
 
+# Banner 
+
+![Homepage](./Assets/banner.jpeg)
+
 # Description
 
 Note Taker is an application that allows user to create notes in the back-end. Then they can view their notes by clicking on them in the list. The user is also able to delete them.
+
+![License](https://img.shields.io/badge/LICENSE-MIT-GREEN)
+
 
 # Table of contents
 
@@ -38,10 +45,6 @@ This application assist the user in creating notes.
 
 ![Terminal-run](./Assets/Terminal-run.png)
 
-
-## License
-
-![License](https://img.shields.io/badge/LICENSE-MIT-GREEN)
 
 ## Contributors
 
